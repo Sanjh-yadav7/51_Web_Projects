@@ -7,7 +7,7 @@
 
 A collection of **51 beginner-friendly web development projects** built using **HTML, CSS, and JavaScript**.
 
-Whether you're a beginner looking to improve your frontend development skills or an open-source contributor seeking projects to work on, this repository has something for everyone.
+Whether you're a beginner looking to improve your frontend development skills or an open-source contributor seeking projects to work on, this repository has something for everyone. 
 
 ⭐ **Star this repository if you find it useful!**
 
