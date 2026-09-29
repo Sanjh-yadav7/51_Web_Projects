@@ -12,7 +12,7 @@ This project recreates the layout and UI of the Codeforces homepage including:
 - User profile card
 - Find user section
 
-Built mainly for improving:
+Built mainly for improving: 
 - Flexbox understanding
 - Layout structuring
 - Responsive thinking
